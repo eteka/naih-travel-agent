@@ -1,7 +1,7 @@
 'use client';
 
 import { useState } from 'react';
-import ResultCard from './(components)/ResultCard';
+import ResultCard from '../ResultCard';
 
 interface SearchInput {
   origin: string;
